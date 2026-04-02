@@ -1,4 +1,4 @@
-# PQGNet: Perceptual Query Guided Network for Infrared Small Target Detection (TGRS 2026)
+# (TGRS 2026)PQGNet: Perceptual Query Guided Network for Infrared Small Target Detection
 
 🎉 **Important Notice: This paper has been officially accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS) on January 12, 2026!**
 
